@@ -1,4 +1,4 @@
-# MS in Business Analytics @ SFSU | Ex-Data Engineer @ Accenture
+## MS in Business Analytics @ SFSU | Ex-Data Engineer @ Accenture
 
 ### Education
 San Francisco State University
