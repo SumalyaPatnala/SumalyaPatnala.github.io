@@ -16,3 +16,9 @@ Technology Analyst, Infosys Ltd, India
 2. Drowsiness Detector using Object Detection
 3. Comment Toxicity Meter
 4. Geographical Dynamic Plotting using Geopandas-Covid-19_India
+
+### Awards
+presented a paper in the ongoing 38th Annual CSU Student Research Competition 2024, in the Business-Economics category titled "From Potential to Progress: Strategies for Sustainable Development in Emerging Economies."
+
+Global Agile Developer - Infosys (Topped across all DCs with 98%) | Star Performer | CIO Award – NBN HFC Team, Infosys
+
