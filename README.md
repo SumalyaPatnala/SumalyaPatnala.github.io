@@ -5,9 +5,11 @@ San Francisco State University
 Master of Science in Business Analytics
 
 ### Work Experience
-\n Graduate Research Assistant, San Francisco State University
-\n Data Engineering Specialist (Team Lead), Accenture, India
-\n Technology Analyst, Infosys Ltd, India
+Graduate Research Assistant, San Francisco State University
+
+Data Engineering Specialist (Team Lead), Accenture, India
+
+Technology Analyst, Infosys Ltd, India
 
 ### Projects
 1. Transforming Product Workflow through Semantic Pattern Recognition (ongoing)
